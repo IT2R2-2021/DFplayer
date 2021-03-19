@@ -1,3 +1,4 @@
+[dfplayer.pdf](https://github.com/IT2R2-2021/DFplayer/files/6170751/dfplayer.pdf)
 # DFPlayer
 
 Utilisation de la tâche DFPlayer :
