@@ -23,3 +23,4 @@ para2 -> paramètre 2 low data byte
 checksum1 -> addition des byte not including start byte, high data byte
 checksum2 -> addition des byte not including start byte, low data byte
 $0 -> 0xEF || End byte
+ 
