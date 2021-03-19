@@ -8,3 +8,5 @@ Numéro des différent sons :
 
 klaxon -> 0x00
 bip    -> 0x00
+
+Format : $S VER Len CMD Feedback para1 para2 checksum1 checksum2 $0
